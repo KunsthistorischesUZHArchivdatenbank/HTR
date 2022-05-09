@@ -18,7 +18,7 @@ The _SegmOnto_ zones used are :
 
 Manuscript lines and typographic lines are distinguished by specific subtypes : 
 
-- `DefaultLine:manuscript`(https://github.com/SegmOnto/Guidelines/blob/main/lines/DefaultLine/DefaultLine.md)
+- [`DefaultLine:manuscript`](https://github.com/SegmOnto/Guidelines/blob/main/lines/DefaultLine/DefaultLine.md)
 - `DefaultLine:print`
-- `HeadingLine:manuscript`(https://github.com/SegmOnto/Guidelines/blob/main/lines/HeadingLine/HeadingLine.md)
+- [`HeadingLine:manuscript`](https://github.com/SegmOnto/Guidelines/blob/main/lines/HeadingLine/HeadingLine.md)
 - `HeadingLine:print`
