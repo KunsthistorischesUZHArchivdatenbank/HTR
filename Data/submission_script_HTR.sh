@@ -9,7 +9,7 @@ module load fosscuda/2020b Python/3.8.6
 source ~/Topenv/bin/activate
 pip install albumentations
 
-work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/Model_HTR_2/"
+work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/ManuscriptLines/Model_HTR_2/"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
