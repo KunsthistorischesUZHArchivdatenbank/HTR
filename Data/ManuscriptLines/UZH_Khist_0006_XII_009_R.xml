@@ -9,13 +9,19 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
   <Layout>
     <Page WIDTH="7656" HEIGHT="5686" PHYSICAL_IMG_NR="54" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="7656" HEIGHT="5686">
+        
+        <TextBlock HPOS="873" VPOS="406" WIDTH="5871" HEIGHT="4760" ID="eSc_textblock_a4c11bb0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="873 406 878 5129 6706 5166 6744 406" /></Shape>
+          
+          
+          </TextBlock>
         
         <TextBlock HPOS="82" VPOS="4831" WIDTH="232" HEIGHT="536" ID="eSc_textblock_97836a41" TAGREFS="BT285">
           <Shape><Polygon POINTS="95 4831 82 5367 300 5314 314 4838" /></Shape>
@@ -29,19 +35,8 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="873" VPOS="406" WIDTH="5871" HEIGHT="4760" ID="eSc_textblock_a4c11bb0" TAGREFS="BT284">
-          <Shape><Polygon POINTS="873 406 878 5129 6706 5166 6744 406" /></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="816" VPOS="5083" WIDTH="4904" HEIGHT="238" ID="eSc_textblock_bb2f1d5d" TAGREFS="BT286">
+        <TextBlock HPOS="816" VPOS="5083" WIDTH="4904" HEIGHT="238" ID="eSc_textblock_bb2f1d5d" TAGREFS="BT297">
           <Shape><Polygon POINTS="5720 5321 5720 5083 816 5083 816 5321" /></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_806f7369" TAGREFS="LT103" BASELINE="895 5254 2152 5235 5641 5264" HPOS="891" VPOS="5112" WIDTH="4750" HEIGHT="199">
@@ -51,6 +46,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

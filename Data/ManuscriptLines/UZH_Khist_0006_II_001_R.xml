@@ -9,7 +9,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
@@ -24,17 +24,6 @@
           </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_f90c4c42" BASELINE="4937 4764 5316 4756" HPOS="4925" VPOS="4630" WIDTH="391" HEIGHT="150">
-            <Shape><Polygon POINTS="4937 4764 4925 4642 5304 4630 5316 4756 5316 4772 4937 4780" /></Shape>
-	    <String CONTENT="Anderson" HPOS="4925" VPOS="4630" WIDTH="391" HEIGHT="150" />
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

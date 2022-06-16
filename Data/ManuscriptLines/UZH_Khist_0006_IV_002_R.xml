@@ -9,7 +9,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
@@ -26,20 +26,16 @@
         <TextBlock HPOS="4749" VPOS="6578" WIDTH="545" HEIGHT="208" ID="eSc_textblock_a180d997" TAGREFS="BT285">
           <Shape><Polygon POINTS="4758 6587 4749 6786 5294 6786 5285 6578" /></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
-          
-          <TextLine ID="eSc_line_50994b4b" BASELINE="4794 6701 5264 6712" HPOS="4788" VPOS="6576" WIDTH="476" HEIGHT="164">
+          <TextLine ID="eSc_line_50994b4b" TAGREFS="LT104" BASELINE="4794 6701 5264 6712" HPOS="4788" VPOS="6576" WIDTH="476" HEIGHT="164">
             <Shape><Polygon POINTS="4794 6701 4794 6576 5258 6605 5264 6712 5258 6723 4788 6740" /></Shape>
 	    <String CONTENT="6. III. 2-0" HPOS="4788" VPOS="6576" WIDTH="476" HEIGHT="164" />
           </TextLine>
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

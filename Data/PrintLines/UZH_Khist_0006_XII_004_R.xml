@@ -9,7 +9,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
@@ -23,7 +23,7 @@
           
           </TextBlock>
         
-        <TextBlock HPOS="1596" VPOS="4826" WIDTH="659" HEIGHT="259" ID="eSc_textblock_5801c310" TAGREFS="BT286">
+        <TextBlock HPOS="1596" VPOS="4826" WIDTH="659" HEIGHT="259" ID="eSc_textblock_5801c310" TAGREFS="BT297">
           <Shape><Polygon POINTS="1596 4826 1596 5085 2255 5085 2255 4826" /></Shape>
           
           
@@ -32,20 +32,10 @@
         <TextBlock HPOS="32" VPOS="5660" WIDTH="245" HEIGHT="508" ID="eSc_textblock_a97d77d3" TAGREFS="BT285">
           <Shape><Polygon POINTS="277 5660 277 6168 32 6168 32 5660" /></Shape>
           
-        </TextBlock>
+          
+          </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_b2865491" BASELINE="103 5698 104 6121" HPOS="73" VPOS="5695" WIDTH="187" HEIGHT="423">
-            <Shape><Polygon POINTS="99 5695 260 5695 240 6118 99 6118 78 6118 73 5695" /></Shape>
-	    <String CONTENT="6. VIII. 11" HPOS="73" VPOS="5695" WIDTH="187" HEIGHT="423" />
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

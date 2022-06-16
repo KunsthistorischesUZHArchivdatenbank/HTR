@@ -9,7 +9,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
@@ -17,11 +17,11 @@
     <Page WIDTH="5581" HEIGHT="7479" PHYSICAL_IMG_NR="31" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="5581" HEIGHT="7479">
         
-        <TextBlock HPOS="2028" VPOS="607" WIDTH="1458" HEIGHT="155" ID="eSc_textblock_e661c176" TAGREFS="BT287">
+        <TextBlock HPOS="2028" VPOS="607" WIDTH="1458" HEIGHT="155" ID="eSc_textblock_e661c176" TAGREFS="BT297">
           <Shape><Polygon POINTS="3435 628 3486 753 2028 762 2032 607" /></Shape>
           
           
-          <TextLine ID="eSc_line_e70385d4" TAGREFS="LT102" BASELINE="2070 716 3442 716" HPOS="2070" VPOS="598" WIDTH="1372" HEIGHT="162">
+          <TextLine ID="eSc_line_e70385d4" TAGREFS="LT105" BASELINE="2070 716 3442 716" HPOS="2070" VPOS="598" WIDTH="1372" HEIGHT="162">
             <Shape><Polygon POINTS="2070 716 2070 598 3442 598 3442 716 3442 760 2070 760" /></Shape>
 	    <String CONTENT="OBERDEUTSCHE SCHULE" HPOS="2070" VPOS="598" WIDTH="1372" HEIGHT="162" />
           </TextLine>
@@ -29,7 +29,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="713" VPOS="5902" WIDTH="4156" HEIGHT="1342" ID="eSc_textblock_0cc04e86" TAGREFS="BT286">
+        <TextBlock HPOS="713" VPOS="5902" WIDTH="4156" HEIGHT="1342" ID="eSc_textblock_0cc04e86" TAGREFS="BT297">
           <Shape><Polygon POINTS="713 5902 713 7244 4869 7244 4869 5902" /></Shape>
           
           
@@ -47,7 +47,7 @@
 
           
           
-          <TextLine ID="eSc_line_5bb90562" TAGREFS="LT102" BASELINE="2026 6238 3498 6226" HPOS="2007" VPOS="6101" WIDTH="1491" HEIGHT="168">
+          <TextLine ID="eSc_line_5bb90562" TAGREFS="LT105" BASELINE="2026 6238 3498 6226" HPOS="2007" VPOS="6101" WIDTH="1491" HEIGHT="168">
             <Shape><Polygon POINTS="2026 6238 2007 6107 3479 6101 3498 6226 3498 6263 2026 6269" /></Shape>
 	    <String CONTENT="CHRISTOPH AMBERGER" HPOS="2007" VPOS="6101" WIDTH="1491" HEIGHT="168" />
           </TextLine>

@@ -9,7 +9,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT287" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" />
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
     <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
   </Tags>
   
@@ -17,8 +17,8 @@
     <Page WIDTH="4741" HEIGHT="5898" PHYSICAL_IMG_NR="16" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="4741" HEIGHT="5898">
         
-        <TextBlock HPOS="122" VPOS="144" WIDTH="4520" HEIGHT="5586" ID="eSc_textblock_67c558d1" TAGREFS="BT284">
-          <Shape><Polygon POINTS="122 159 122 5730 4642 5730 4642 144" /></Shape>
+        <TextBlock HPOS="113" VPOS="101" WIDTH="4545" HEIGHT="5665" ID="eSc_textblock_70509a51" TAGREFS="BT284">
+          <Shape><Polygon POINTS="113 101 113 5766 4633 5761 4658 131" /></Shape>
           
         </TextBlock>
         
