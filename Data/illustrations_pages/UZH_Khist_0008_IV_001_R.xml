@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_IV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2608"
+          HEIGHT="3967"
+          PHYSICAL_IMG_NR="173"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2608"
+                  HEIGHT="3967">
+        
+        <TextBlock HPOS="76"
+                   VPOS="37"
+                   WIDTH="2462"
+                   HEIGHT="3865"
+                   ID="eSc_textblock_e2aaafde"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="2538 3902 2538 37 76 37 76 3902"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_74b6d609"
+                    TAGREFS="LT104"
+                    BASELINE="368 3828 2004 3856" 
+                    HPOS="364"
+                    VPOS="3702"
+                    WIDTH="1638"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="367 3824 367 3702 589 3735 642 3709 648 3705 648 3705 648 3705 652 3705 652 3705 655 3705 655 3705 655 3705 658 3705 658 3705 661 3705 661 3705 661 3709 665 3709 691 3735 754 3715 757 3715 757 3715 757 3715 761 3715 761 3715 761 3715 764 3715 764 3715 814 3738 863 3715 877 3709 877 3709 877 3709 880 3709 880 3709 883 3709 883 3709 886 3709 886 3709 906 3715 986 3748 1270 3748 1304 3725 1307 3722 1307 3722 1310 3722 1310 3722 1313 3722 1313 3722 1313 3722 1317 3722 1317 3722 1320 3722 1320 3722 1333 3725 1373 3742 1383 3728 1393 3722 1393 3719 1393 3719 1396 3719 1396 3719 1396 3719 1399 3719 1399 3719 1403 3719 1621 3722 1621 3722 1621 3722 1625 3722 1625 3722 1628 3722 1648 3735 1654 3738 1671 3735 1724 3725 1724 3725 1724 3725 1727 3725 1727 3725 1730 3725 1730 3725 1730 3725 1734 3725 1734 3725 1734 3728 1744 3738 1747 3738 1750 3738 1767 3725 1770 3725 1770 3725 1770 3725 1773 3725 1773 3725 1777 3725 1777 3725 1777 3725 1780 3725 1780 3725 1783 3725 1807 3738 1810 3742 1830 3742 1912 3728 1912 3728 1916 3728 1916 3728 1916 3728 1919 3728 1919 3728 1919 3728 1922 3728 1922 3728 1939 3742 1959 3762 1995 3745 2002 3854 1999 3857 1879 3874 1879 3874 1876 3874 1876 3874 1876 3874 1873 3874 1820 3857 1816 3857 1754 3857 1287 3864 1284 3864 1284 3864 1280 3864 1280 3864 1280 3864 1277 3864 1277 3864 1267 3854 1257 3847 1237 3854 1204 3861 1201 3861 1201 3861 1198 3861 1198 3861 1128 3851 1042 3841 1012 3851 996 3857 996 3857 992 3857 992 3857 989 3857 989 3857 989 3857 949 3851 896 3841 364 3844"/></Shape>
+	    <String CONTENT="Pfarrkirche zu Andernach"
+                    HPOS="364"
+                    VPOS="3702"
+                    WIDTH="1638"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
