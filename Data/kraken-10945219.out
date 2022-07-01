@@ -27,3 +27,64 @@ Building training set
 [134.4222] Line polygon outside of image bounds 
 [191.8582] Line polygon outside of image bounds 
 [211.7623] Line polygon outside of image bounds 
+[332.0379] Text line " " is empty after transformations 
+[404.7224] Text line " " is empty after transformations 
+[484.7200] Text line " " is empty after transformations 
+[484.7203] Text line " " is empty after transformations 
+[484.7204] Text line " " is empty after transformations 
+[484.7206] Text line " " is empty after transformations 
+[513.7478] Text line " " is empty after transformations 
+[600.0158] Line polygon outside of image bounds 
+[673.9668] Line polygon outside of image bounds 
+[782.8778] Text line " " is empty after transformations 
+Building validation set
+[836.6547] Line polygon outside of image bounds 
+[896.6806] Text line " " is empty after transformations 
+[897.3643] Line polygon outside of image bounds 
+[908.3836] Line polygon outside of image bounds 
+[914.3236] alphabet mismatch: chars in training set only: {'b', 'Ä', 'ó', '"', '°', 'ō', 'ū', '?', '€', '$', ',', 'Q', 'q', 'ü', 'w', 'j'} (not included in accuracy test during training) 
+[914.3239] alphabet mismatch: chars in validation set only: {'Y', 'é'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0000 1234 1234
+stage 2/∞
+Accuracy report (2) 0.0900 1234 1123
+stage 3/∞
+Accuracy report (3) 0.0940 1234 1118
+stage 4/∞
+Accuracy report (4) 0.1021 1234 1108
+stage 5/∞
+Accuracy report (5) 0.1191 1234 1087
+stage 6/∞
+Accuracy report (6) 0.1823 1234 1009
+stage 7/∞
+Accuracy report (7) 0.2042 1234 982
+stage 8/∞
+Accuracy report (8) 0.2326 1234 947
+stage 9/∞
+Accuracy report (9) 0.2553 1234 919
+stage 10/∞
+Accuracy report (10) 0.2577 1234 916
+stage 11/∞
+Accuracy report (11) 0.2925 1234 873
+stage 12/∞
+Accuracy report (12) 0.2723 1234 898
+stage 13/∞
+Accuracy report (13) 0.2869 1234 880
+stage 14/∞
+Accuracy report (14) 0.2917 1234 874
+stage 15/∞
+Accuracy report (15) 0.3225 1234 836
+stage 16/∞
+Accuracy report (16) 0.3541 1234 797
+stage 17/∞
+Accuracy report (17) 0.3436 1234 810
+stage 18/∞
+Accuracy report (18) 0.3647 1234 784
+stage 19/∞
+Accuracy report (19) 0.3793 1234 766
+stage 20/∞
+Accuracy report (20) 0.3857 1234 758
+stage 21/∞
+Accuracy report (21) 0.3736 1234 773
+Moving best model output_name_16.mlmodel (0.35413289070129395) to output_name_best.mlmodel
