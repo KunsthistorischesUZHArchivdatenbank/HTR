@@ -16,5 +16,6 @@ OUTPUT_NAME="output_name"
 XML_FOLDER="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/CREMMA-MSS-20_data/"
 
 echo "KETOS training"
-srun ketos train -i /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/HTR_ManuscriptLines_2/output_name_20.mlmodel "${XML_FOLDER}/*.xml"
+srun ketos train -f alto -i /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/HTR_ManuscriptLines_2/output_name_20.mlmodel /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/CREMMA-MSS-20_data/*.xml
+
 
