@@ -1,8 +1,0 @@
-KETOS training
-WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
-WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
-Usage: ketos train [OPTIONS] [GROUND_TRUTH]...
-Try 'ketos train --help' for help.
-
-Error: No training data was provided to the train command. Use `-t` or the `ground_truth` argument.
-srun: error: gpu003: task 0: Exited with exit code 2
