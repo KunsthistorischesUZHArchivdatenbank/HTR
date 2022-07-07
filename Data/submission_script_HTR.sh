@@ -5,11 +5,11 @@
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=0
 
+module load CUDA/11.5.1
 module load fosscuda/2020b Python/3.8.6
-source ~/Topenv/bin/activate
-pip install albumentations
+source ~/Sandozenv/bin/activate
 
-work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/HTR_ManuscriptLines_2"
+work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/HTR_ManuscriptLines_5"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
@@ -17,5 +17,6 @@ OUTPUT_NAME="output_name"
 XML_FOLDER="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/"
 
 echo "KETOS training"
-srun ketos train -o $OUTPUT_NAME -f alto -d cuda "${XML_FOLDER}/*.xml"
+
+srun ketos train -o $OUTPUT_NAME -f alto cuda:0 -t /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Split/ManuscriptLines/Manuscript_line_illustrations_pages/train.txt -e /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Split/ManuscriptLines/Manuscript_line_illustrations_pages/val.txt -d cuda "${XML_FOLDER}/*.xml"
 
