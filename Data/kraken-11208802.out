@@ -1,0 +1,26 @@
+
+Les modules suivants ont été rechargés avec un changement de version :
+  1) CUDA/11.5.1 => CUDA/11.1.1
+
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[37.7609] Line polygon outside of image bounds 
+Building validation set
+[351.2300] Line polygon outside of image bounds 
+[351.2314] alphabet mismatch: chars in training set only: {'&', 'ç', 'Y', 'ô', 'Æ', 'q', 'y', 'É', 'à', 'ê', ';', ':', '»', 'Ä', 'â', 'k', 'X', 'é', '«', 'j', 'J', 'x', 'ß', 'À', 'è', 'Ö', 'v'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0031 647 645
+stage 2/∞
+Accuracy report (2) 0.0000 647 647
+stage 3/∞
+Accuracy report (3) 0.0000 647 647
+stage 4/∞
+Accuracy report (4) 0.0000 647 647
+stage 5/∞
+Accuracy report (5) 0.0062 647 643
+stage 6/∞
+Accuracy report (6) 0.0015 647 646
+Moving best model PrintLines_2_1.mlmodel (0.0030911900103092194) to PrintLines_2_best.mlmodel
