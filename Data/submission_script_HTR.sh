@@ -5,7 +5,6 @@
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=0
 
-module load CUDA/11.5.1
 module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
