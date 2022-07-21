@@ -8,12 +8,12 @@
 module load fosscuda/2020b Python/3.8.6
 source ~/Sandozenv/bin/activate
 
-work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/PrintLines"
+work_directory="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/PrintLines_2"
 mkdir -p ${work_directory}
 cd ${work_directory}
 
-OUTPUT_NAME="PrintLines"
-XML_FOLDER="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/PrintLines/"
+OUTPUT_NAME="PrintLines_2"
+XML_FOLDER="/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/*/"
 
 echo "KETOS training"
 
