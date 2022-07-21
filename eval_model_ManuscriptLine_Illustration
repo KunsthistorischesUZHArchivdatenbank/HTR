@@ -1,80 +1,67 @@
-Loading model Models/HTR_ManuscriptLines_5/output_name_best.mlmodel	✓
-Evaluating Models/HTR_ManuscriptLines_5/output_name_best.mlmodel
+Loading model Models/illustrations_pages/illustrations_pages_best.mlmodel	✓
+Evaluating Models/illustrations_pages/illustrations_pages_best.mlmodel
 Evaluating
 === report  ===
 
-467	Characters
-92	Errors
-80.30%	Accuracy
+496	Characters
+71	Errors
+85.69%	Accuracy
 
-55	Insertions
-3	Deletions
-34	Substitutions
+46	Insertions
+8	Deletions
+17	Substitutions
 
 Count	Missed	%Right
-152	19	87.50%	Common
-315	70	77.78%	Latin
+152	13	91.45%	Common
+344	50	85.47%	Latin
 
 Errors	Correct-Generated
-6	{ u } - {  }
-6	{ a } - {  }
-5	{ r } - {  }
-4	{ e } - {  }
-3	{ 1 } - { 0 }
-3	{ i } - {  }
-3	{ n } - {  }
+4	{ a } - {  }
+4	{ n } - {  }
+3	{ I } - {  }
+3	{ m } - {  }
+3	{ e } - {  }
+3	{ u } - {  }
+3	{ p } - {  }
+3	{  } - { n }
 2	{ s } - {  }
-2	{ p } - {  }
-2	{ a } - { e }
-2	{ c } - {  }
-2	{ h } - {  }
-2	{ . } - {  }
-2	{ SPACE } - {  }
-2	{ i } - { s }
-2	{ l } - {  }
+2	{  } - { 2 }
+2	{ t } - {  }
+2	{ i } - {  }
+2	{ r } - {  }
+2	{ 2 } - {  }
+1	{ 1 } - { 7 }
 1	{ 2 } - { 9 }
-1	{ g } - {  }
-1	{ m } - {  }
-1	{ 3 } - { 2 }
-1	{ m } - { s }
+1	{ D } - { F }
+1	{ o } - { SPACE }
+1	{ 1 } - {  }
 1	{ k } - {  }
 1	{ y } - {  }
-1	{ t } - {  }
+1	{ 1 } - { 4 }
 1	{ 7 } - { 3 }
-1	{ R } - { F }
-1	{ i } - { r }
-1	{ f } - {  }
-1	{ i } - { a }
-1	{ e } - { a }
-1	{ m } - { . }
-1	{ H } - { A }
-1	{ A } - { K }
-1	{ n } - { a }
-1	{ d } - { r }
-1	{ u } - { h }
-1	{ s } - { e }
-1	{ t } - { z }
-1	{ m } - { t }
-1	{ o } - {  }
-1	{ d } - { S }
-1	{ z } - {  }
-1	{ , } - { . }
-1	{  } - { p }
-1	{ 2 } - { 3 }
-1	{ F } - { P }
-1	{  } - { r }
-1	{ : } - {  }
-1	{ M } - { N }
-1	{ ä } - {  }
+1	{ e } - { i }
+1	{ f } - { n }
+1	{ H } - {  }
+1	{ c } - {  }
+1	{ h } - {  }
+1	{ m } - { e }
+1	{ d } - { A }
+1	{ . } - { V }
+1	{ SPACE } - {  }
+1	{  } - { S }
+1	{  } - { . }
 1	{ v } - {  }
-1	{ 2 } - { 1 }
-1	{ 3 } - { 0 }
+1	{ l } - { i }
+1	{ o } - {  }
+1	{ 2 } - { 5 }
+1	{ ö } - {  }
+1	{ g } - {  }
+1	{ ä } - {  }
+1	{ r } - { e }
 1	{ 7 } - { 1 }
-1	{ 1 } - { 7 }
+1	{  } - { i }
 1	{ 0 } - {  }
-1	{ I } - { X }
-1	{ I } - {  }
-1	{ 3 } - {  }
-1	{  } - { 9 }
+1	{ I } - { V }
+1	{ 3 } - { 9 }
 
-Average accuracy: 80.30%, (stddev: 0.00)
+Average accuracy: 85.69%, (stddev: 0.00)

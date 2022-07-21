@@ -1,0 +1,42 @@
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+[61.5412] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0173_II_000.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0173_II_000.xml 
+[72.0617] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0176_III_000.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0176_III_000.xml 
+Building training set
+[72.2116] Text line " " is empty after transformations 
+[72.2117] Text line " " is empty after transformations 
+[72.2468] Text line " " is empty after transformations 
+[72.2474] Text line " " is empty after transformations 
+[72.2577] Text line " " is empty after transformations 
+[72.5371] Text line " " is empty after transformations 
+[72.6223] Text line " " is empty after transformations 
+[72.7354] Text line " " is empty after transformations 
+[72.8118] Text line " " is empty after transformations 
+[72.9900] Text line " " is empty after transformations 
+[73.4154] Text line " " is empty after transformations 
+[73.6822] Text line " " is empty after transformations 
+[73.6824] Text line " " is empty after transformations 
+[73.6825] Text line " " is empty after transformations 
+[73.6827] Text line " " is empty after transformations 
+[73.7119] Text line " " is empty after transformations 
+[73.7691] Text line " " is empty after transformations 
+Building validation set
+[74.3123] Text line " " is empty after transformations 
+[74.4757] alphabet mismatch: chars in training set only: {'*', 'ñ', 'Ä', '·', '–', 'Ü', 'ÿ', '?', '€', '½', '>', '|', '$', 'œ', 'ō', 'ù', '_', 'ū'} (not included in accuracy test during training) 
+[74.4760] alphabet mismatch: chars in validation set only: {'[', ']'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.3352 70622 46952
+stage 2/∞
+Accuracy report (2) 0.3946 70575 42723
+stage 3/∞
+Accuracy report (3) 0.4202 70597 40931
+stage 4/∞
+Accuracy report (4) 0.4526 70575 38636
+stage 5/∞
+Accuracy report (5) 0.4555 70630 38456
+stage 6/∞
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+slurmstepd: error: *** JOB 11540688 ON gpu003 CANCELLED AT 2022-07-16T21:42:05 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 11540688.0 ON gpu003 CANCELLED AT 2022-07-16T21:42:05 DUE TO TIME LIMIT ***
