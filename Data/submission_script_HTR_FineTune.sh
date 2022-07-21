@@ -1,6 +1,6 @@
 #!/bin/env bash
 #SBATCH --partition=public-gpu
-#SBATCH --time=20:00:00
+#SBATCH --time=40:00:00
 #SBATCH --gpus=1
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=0
