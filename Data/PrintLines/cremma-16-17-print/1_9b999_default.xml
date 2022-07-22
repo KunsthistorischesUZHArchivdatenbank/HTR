@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1_9b999_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/bpt6k3103841/f2/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1136" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT1137" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT1138" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT1140" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2843"
+          HEIGHT="4289"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2843"
+                  HEIGHT="4289">
+        
+        <TextBlock HPOS="772"
+                   VPOS="1172"
+                   WIDTH="1770"
+                   HEIGHT="325"
+                   ID="eSc_textblock_ae337ffa"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2528 1172 2542 1411 1573 1440 1441 1497 772 1483 772 1272 829 1172"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5e249da8"
+                    TAGREFS="LT1"
+                    BASELINE="822 1247 2528 1229" 
+                    HPOS="818"
+                    VPOS="1079"
+                    WIDTH="1706"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="818 1218 826 1115 908 1147 965 1129 1054 1143 1083 1118 1172 1118 1208 1097 1255 1140 1283 1125 1316 1150 1491 1150 1548 1147 1580 1115 1619 1104 1641 1125 1677 1107 1763 1125 1805 1086 2177 1079 2213 1100 2242 1079 2285 1093 2317 1079 2381 1140 2521 1136 2524 1200 2503 1247 2106 1236 2066 1250 1952 1236 1773 1254 1741 1240 1534 1254 1501 1240 1416 1258 1280 1258 1262 1243 1054 1261 818 1250"/></Shape>
+	    <String CONTENT="La Version de toutes les oeuvres de Stace avec des remarques,"
+                    HPOS="818"
+                    VPOS="1079"
+                    WIDTH="1706"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d666a3e"
+                    TAGREFS="LT1"
+                    BASELINE="779 1322 2528 1300" 
+                    HPOS="772"
+                    VPOS="1240"
+                    WIDTH="1752"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="776 1293 772 1275 811 1258 901 1258 929 1275 951 1258 1004 1258 1051 1275 1069 1254 1215 1272 1273 1254 1408 1268 1441 1250 1519 1265 1552 1250 1623 1265 1645 1250 1662 1265 1770 1247 1809 1265 1827 1250 1906 1261 1941 1247 1981 1261 2006 1243 2049 1261 2142 1261 2181 1243 2220 1261 2356 1240 2385 1258 2521 1254 2524 1272 2521 1304 2456 1318 2403 1304 2388 1318 2213 1308 2159 1322 2131 1308 2113 1322 1934 1326 1873 1311 1841 1326 1770 1311 1645 1329 1526 1315 1444 1329 1383 1329 1366 1315 1237 1329 1115 1318 1083 1333 776 1326"/></Shape>
+	    <String CONTENT="&amp; la vie de ce Poëte, fut compoſée en proſe par le meſme Au¬"
+                    HPOS="772"
+                    VPOS="1240"
+                    WIDTH="1752"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5a47aa2"
+                    TAGREFS="LT1"
+                    BASELINE="783 1397 2531 1383" 
+                    HPOS="779"
+                    VPOS="1322"
+                    WIDTH="1749"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="779 1368 779 1351 815 1333 940 1351 1047 1333 1065 1351 1130 1351 1147 1333 1215 1333 1237 1347 1276 1333 1290 1347 1330 1329 1391 1347 1459 1329 1501 1347 1537 1329 1562 1347 1619 1329 1648 1347 1702 1333 1737 1343 1766 1326 1788 1340 1859 1326 1877 1343 2002 1343 2031 1326 2070 1343 2099 1322 2163 1322 2181 1340 2210 1322 2238 1340 2310 1340 2331 1326 2360 1340 2395 1322 2460 1340 2496 1326 2528 1354 2528 1390 2474 1411 2381 1393 2353 1411 2249 1411 2220 1397 2181 1411 1923 1415 1866 1397 1727 1415 1702 1393 1652 1418 1627 1401 1552 1415 1466 1397 1441 1418 1412 1397 1265 1397 1172 1422 1112 1418 1090 1401 972 1422 947 1401 779 1401"/></Shape>
+	    <String CONTENT="theur qui a fait cette Traduction en Vers, &amp; fut imprimée &amp;"
+                    HPOS="779"
+                    VPOS="1322"
+                    WIDTH="1749"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cde608d0"
+                    TAGREFS="LT1"
+                    BASELINE="776 1472 1426 1465" 
+                    HPOS="768"
+                    VPOS="1397"
+                    WIDTH="655"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="772 1443 768 1415 783 1422 808 1401 933 1401 954 1422 1054 1422 1076 1404 1119 1418 1190 1418 1208 1404 1298 1418 1330 1404 1351 1418 1419 1397 1423 1519 1355 1504 1316 1522 1194 1522 1151 1501 1119 1519 1105 1504 1047 1519 1029 1504 922 1526 883 1504 772 1504"/></Shape>
+	    <String CONTENT="dédié au Roy en 1658."
+                    HPOS="768"
+                    VPOS="1397"
+                    WIDTH="655"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
